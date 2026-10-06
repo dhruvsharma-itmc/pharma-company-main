@@ -1,0 +1,28 @@
+[06-May-2026 20:44:35 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.4.0". You are running 8.1.33. in /home/coaverification/public_html/pharma/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/coaverification/public_html/pharma/vendor/composer/autoload_real.php(25): require()
+#1 /home/coaverification/public_html/pharma/vendor/autoload.php(22): ComposerAutoloaderInit12a93e9ee58f99b3ee9ac9b5d35d65e5::getLoader()
+#2 /home/coaverification/public_html/pharma/artisan(10): require('/home/coaverifi...')
+#3 {main}
+  thrown in /home/coaverification/public_html/pharma/vendor/composer/platform_check.php on line 22
+[06-May-2026 20:47:12 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.4.0". You are running 8.1.33. in /home/coaverification/public_html/pharma/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/coaverification/public_html/pharma/vendor/composer/autoload_real.php(25): require()
+#1 /home/coaverification/public_html/pharma/vendor/autoload.php(22): ComposerAutoloaderInit12a93e9ee58f99b3ee9ac9b5d35d65e5::getLoader()
+#2 /home/coaverification/public_html/pharma/artisan(10): require('/home/coaverifi...')
+#3 {main}
+  thrown in /home/coaverification/public_html/pharma/vendor/composer/platform_check.php on line 22
+[06-May-2026 20:51:30 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.4.0". You are running 8.1.34. in /home/coaverification/public_html/pharma/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/coaverification/public_html/pharma/vendor/composer/autoload_real.php(25): require()
+#1 /home/coaverification/public_html/pharma/vendor/autoload.php(22): ComposerAutoloaderInit12a93e9ee58f99b3ee9ac9b5d35d65e5::getLoader()
+#2 /home/coaverification/public_html/pharma/artisan(10): require('/home/coaverifi...')
+#3 {main}
+  thrown in /home/coaverification/public_html/pharma/vendor/composer/platform_check.php on line 22
+[06-May-2026 20:52:03 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.4.0". You are running 8.1.34. in /home/coaverification/public_html/pharma/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/coaverification/public_html/pharma/vendor/composer/autoload_real.php(25): require()
+#1 /home/coaverification/public_html/pharma/vendor/autoload.php(22): ComposerAutoloaderInit12a93e9ee58f99b3ee9ac9b5d35d65e5::getLoader()
+#2 /home/coaverification/public_html/pharma/artisan(10): require('/home/coaverifi...')
+#3 {main}
+  thrown in /home/coaverification/public_html/pharma/vendor/composer/platform_check.php on line 22
